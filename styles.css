@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("./imgs/hero2.jpg");
+    position: relative;
+    padding-top:250px;  
+    padding-bottom:250px;
+}
+
+.jumbotron h1 {
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    color: #f1f1f1;
+}
