@@ -1,8 +1,9 @@
 .jumbotron {
     background-image: url("./imgs/hero2.jpg");
     position: relative;
-    padding-top:250px;  
+    padding-top:200px;  
     padding-bottom:200px;
+    margin-top: 3em;
 }
 
 .jumbotron h1 {
@@ -12,4 +13,6 @@
     color: #f1f1f1;
     font-family: sans-serif;
 }
+
+
 
