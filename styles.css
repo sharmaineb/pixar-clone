@@ -1,9 +1,7 @@
 .jumbotron {
-    background-image: url("./imgs/hero2.jpg");
-    position: relative;
-    padding-top:200px;  
-    padding-bottom:200px;
-    margin-top: 3em;
+    padding-top:270px;  
+    padding-bottom:240px;
+    margin-top: 1.0em;
 }
 
 .jumbotron h1 {
@@ -12,6 +10,22 @@
     font-weight: bolder;
     color: #f1f1f1;
     font-family: sans-serif;
+}
+
+#navbarNavDropdown {
+    padding-top: 2em;
+}
+
+.navbar-brand {
+    padding-top: 2em;
+    padding-left: 4em;
+    width: auto;
+    height: auto;
+}
+
+
+* {
+    scroll-behavior: smooth;
 }
 
 
